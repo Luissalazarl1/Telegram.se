@@ -121,7 +121,7 @@ p {
 
     .telegram a {
         position: absolute;
-        top: 29%;
+        top: 32%;
         left: 12%;
         display: inline-block;
         flex-wrap: wrap;
@@ -146,7 +146,7 @@ p {
 
     .telegram2 a {
         position: absolute;
-        top: 29%;
+        top: 32%;
         left: 52%;
         display: inline-block;
         flex-wrap: wrap;
